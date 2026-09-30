@@ -4,6 +4,8 @@ This repository demonstrates a GitHub Actions workflow that automatically update
 
 Linked issue: #1
 
+Workflow file: `.github/workflows/update-readme.yml`
+
 ## Recent activity
 <!--START_SECTION:activity-->
 1. ❌ Closed issue #1 in [DanielSkarstein/devops-readme-automation](https://github.com/DanielSkarstein/devops-readme-automation/issues/1)

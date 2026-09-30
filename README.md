@@ -4,7 +4,7 @@ This repository demonstrates a GitHub Actions workflow that automatically update
 
 Linked issue: #1
 
-Workflow file: `.github/workflows/update-readme.yml`
+Workflow file: `.github/workflows/update-readme.yml` (runs manually via workflow_dispatch)
 
 ## Recent activity
 <!--START_SECTION:activity-->

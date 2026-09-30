@@ -5,6 +5,6 @@ This repository demonstrates a GitHub Actions workflow that automatically update
 Linked issue: #1
 
 ## Recent activity
-<!-- ACTIVITY:START -->
+<!--START_SECTION:activity-->
 _This section is updated automatically by GitHub Actions. Do not edit manually._
-<!-- ACTIVITY:END -->
+<!--END_SECTION:activity-->
